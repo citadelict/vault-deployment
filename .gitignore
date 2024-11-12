@@ -1,0 +1,6 @@
+/terraform/.terraform/
+.terraform.lock.hcl
+kubeconfig
+terraform.tfstate.backup
+trust-policy.json
+terraform.tfstate
